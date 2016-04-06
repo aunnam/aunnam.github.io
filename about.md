@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[ajit.unnam@domain.com](mailto:ajit.unnam@gmail.com)
+[ajit.unnam@gmail.com](mailto:ajit.unnam@gmail.com)
